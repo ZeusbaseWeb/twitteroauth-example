@@ -1,7 +1,8 @@
-Abraham Williams | abraham@poseurte.ch | http://abrah.am | @abraham
+Abraham Williams | the@abrah.am | http://abrah.am | @abraham
 
-The first PHP library for working with Twitter's OAuth API.
+Example code for working with the TwitterOAuth PHP library. To get started download and unpack the latest version of TwitterOAuth into this directory.
 
 Documentation: http://wiki.github.com/abraham/twitteroauth/documentation 
-Source: http://github.com/abraham/twitteroauth
-Twitter: http://apiwiki.twitter.com
+Example source: http://github.com/abraham/twitteroauth-example
+TwitterOAuth source: http://github.com/abraham/twitteroauth
+Twitter API developer site: http://dev.twitter.com
